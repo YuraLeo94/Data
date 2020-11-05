@@ -1,0 +1,189 @@
+{
+    "menu": [
+        {
+            "title": "Home",
+            "url": "#",
+            "isSubMenu": false
+        },
+        {
+            "title": "About",
+            "url": "#",
+            "isSubMenu": false
+        },
+        {
+            "title": "Menu",
+            "url": "#",
+            "isSubMenu": false
+        },
+        {
+            "title": "Blog",
+            "url": "#",
+            "isSubMenu": false
+        },
+        {
+            "title": "Features",
+            "isSubMenu": true,
+            "url": "#",
+            "subMenu": [
+                {
+                    "title": "One page",
+                    "url": "#"
+                },
+                {
+                    "title": "Protfolio",
+                    "url": "#"
+                },
+                {
+                    "title": "Shortcodes",
+                    "url": "#"
+                }
+            ]
+        },
+        {
+            "title": "Shop",
+            "url": "#",
+            "isSubMenu": false
+        },
+        {
+            "title": "Contact",
+            "url": "#",
+            "isSubMenu": false
+        }
+    ],
+    "dropdownMenu": [
+        {
+            "title": "Total price $",
+            "url": "#"
+        },
+        {
+            "title": "View cart",
+            "url": "#"
+        },
+        {
+            "title": "Checkout",
+            "url": "#"
+        }
+    ],
+    "carousel": [
+        {
+            "title": "Made with love",
+            "subTitle": "for you",
+            "altTag": "eggs and chicken",
+            "path": "./src/images/carousel/carousel_img_1.png"
+        },
+        {
+            "title": "Made with hate",
+            "subTitle": "for myself",
+            "altTag": "something more",
+            "path": "./src/images/carousel/carousel_img_2.png"
+        },
+        {
+            "title": "Oranges and laptops",
+            "subTitle": "for everyone",
+            "altTag": "oranges and laptops",
+            "path": "./src/images/carousel/carousel_img_3.png"
+        }
+    ],
+    "about": {
+        "title": "About",
+        "subTitle": "we create delicious memories",
+        "text": "Renome it is renowned restaurant delights the senses with elegant ambiance, gracious service and delectable menus in the heart of Manhattan’s. The distinctive setting boasts contemporary furnishings and finishes atop the restaurant’s grand modern architecture. Renome offers the room for private dining where guests enjoy creative foods and sumptuous late night desserts. Is one of the few Manhattan restaurants to have a coveted 3-star Michelin rating.",
+        "aboutImages": [
+            {
+                "path": "./src/images/about/about_img_1.png",
+                "altTag": "about_img_1"
+            },
+            {
+                "path": "./src/images/about/about_img_2.png",
+                "altTag": "about_img_2"
+            }
+        ]
+    },
+    "gallery": {
+        "title": "Gallery",
+        "subTitle": "More about us via photos",
+        "galleryImages": [
+            {
+                "path": "./src/images/gallery/gallery_img_1.png",
+                "altTag": "gallery_img_1"
+            },
+            {
+                "path": "./src/images/gallery/gallery_img_2.png",
+                "altTag": "gallery_img_2"
+            },
+            {
+                "path": "./src/images/gallery/gallery_img_3.png",
+                "altTag": "gallery_img_3"
+            },
+            {
+                "path": "./src/images/gallery/gallery_img_4.png",
+                "altTag": "gallery_img_4"
+            },
+            {
+                "path": "./src/images/gallery/gallery_img_5.png",
+                "altTag": "gallery_img_5"
+            },
+            {
+                "path": "./src/images/gallery/gallery_img_6.png",
+                "altTag": "gallery_img_6"
+            }
+        ]
+    },
+    "socialMedia": [
+        {
+            "url": "https://www.facebook.com/",
+            "path": "./src/images/footer/fb.png",
+            "altTag": "facebook"
+        },
+        {
+            "url": "https://twitter.com/",
+            "path": "./src/images/footer/tw.png",
+            "altTag": "twitter"
+        },
+        {
+            "url": "https://myaccount.google.com/",
+            "path": "./src/images/footer/g-plus.png",
+            "altTag": "g-plus"
+        }
+    ],
+    "logo": {
+        "title": "Renoma"
+    },
+    "followUs": {
+        "title": "Follow us:"
+    },
+    "copyright": {
+        "title": "copyright 2015 renoma by estetiq"
+    },
+    "search": {
+        "path": "./src/images/nav-menu/search.png",
+        "altTag": "search",
+        "placeholderTag": "Search..."
+    },
+    "cart": {
+        "path": "./src/images/nav-menu/cart.png",
+        "altTag": "cart"
+    },
+    "arrows": {
+        "black": {
+            "right": {
+                "path": "./src/images/arrows/arrow_right.png",
+                "altTag": "arrow right"
+            },
+            "left": {
+                "path": "./src/images/arrows/arrow_left.png",
+                "altTag": "arrow left"
+            }
+        },
+        "white": {
+            "right": {
+                "path": "./src/images/arrows/arrow_white_right.png",
+                "altTag": "arrow wait right"
+            },
+            "left": {
+                "path": "./src/images/arrows/arrow_white_left.png",
+                "altTag": "arrow wait left"
+            }
+        }
+    }
+}
