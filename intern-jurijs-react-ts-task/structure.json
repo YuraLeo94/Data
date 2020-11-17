@@ -16,6 +16,11 @@
             "isSubMenu": false
         },
         {
+            "title": "Reservations",
+            "url": "#",
+            "isSubMenu": false
+        },
+        {
             "title": "Blog",
             "url": "#",
             "isSubMenu": false
